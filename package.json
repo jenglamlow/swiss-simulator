@@ -1,0 +1,30 @@
+{
+  "name": "swiss-simulator",
+  "version": "0.1.0",
+  "description": "Swiss-System Simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenglamlow/swiss-simulator.git"
+  },
+  "keywords": [
+    "swiss"
+  ],
+  "author": "Low Jeng Lam <jenglamlow@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenglamlow/swiss-simulator/issues"
+  },
+  "homepage": "https://github.com/jenglamlow/swiss-simulator#readme",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
